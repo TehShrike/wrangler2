@@ -1,7 +1,8 @@
 {
-  "name": "wrangler",
+  "name": "@tehshrike/wrangler2",
   "version": "0.0.0",
   "author": "wrangler@cloudflare.com",
+  "repository": "git://git@github.com:TehShrike/wrangler2.git",
   "description": "Command-line interface for all things Cloudflare Workers",
   "bin": "./bin/wrangler.js",
   "license": "MIT OR Apache-2.0",
